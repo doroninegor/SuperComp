@@ -21,7 +21,7 @@ public class Flower {
             Flower[] bouquet1 ={rose, lily, rose};
             Flower[] bouquet2 ={carnations, tulip, lily, lily,tulip};
             Flower[] bouquet3 ={tulip, rose, lily, tulip};
-            System.out.println(bouquet1.length+" " + bouquet2.length+ " "+ bouquet3.length);
+            System.out.println(bouquet1.length+ bouquet2.length+ bouquet3.length);
         }
     }
 
