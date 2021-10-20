@@ -6,7 +6,6 @@ public class Flower {
     public Flower(int price) {
         this.price = price;
     }
-
     public int getPrice() {
         return price;
     }
